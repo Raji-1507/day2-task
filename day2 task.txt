@@ -30,7 +30,7 @@ here "a" is a variable.
 
 Type Conversion is the conversion of an object from one data type to another data type.
 
-str to int:
+1)str to int:
 ...........................................
  a = 10;
  b = '12'
@@ -43,7 +43,7 @@ output:
 22
 <class 'int'>
 .........................................
-str to float:
+2)str to float:
  a = 10.5;
  b = '12'
  c = float(b)
@@ -54,4 +54,5 @@ str to float:
 output:
 22.5
 <class 'float'>
-
+.........................................
+3)To String: str(x) converts x to a string.
